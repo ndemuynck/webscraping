@@ -8,18 +8,18 @@ First exercise to get familiar with scraping data from the internet and transfor
 
 Using Requests, BeautifulSoup and Pandas library.
 
-# why?
+## why?
 
 For training purposes. Preparation tech talks.
 
-# when?
+## when?
 
 First week after autumn vacation.
 
-# who?
+## who?
 
 Student of BeCode
 
-# where?
+## where?
 
 Online session via Discord
